@@ -6,6 +6,8 @@ Making apps with a focus on intuitiveness and visualization.
 
 > Telegram is messy. NotLost tries to fix that.
 
+Background: 1 year as mobile dev at online school, solo dev of an app with 10M of users at peak
+
 <!--
 **shestaya-liniya/shestaya-liniya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
