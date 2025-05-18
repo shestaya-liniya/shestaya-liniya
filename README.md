@@ -1,4 +1,10 @@
-## Hi there 👋
+# Yo!
+
+I'm building **NotLost** — an app to make Telegram (and propably all of social life) a little less chaotic.
+
+Making apps with a focus on intuitiveness and visualization.
+
+> Telegram is messy. NotLost tries to fix that.
 
 <!--
 **shestaya-liniya/shestaya-liniya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
