@@ -1,8 +1,8 @@
 # Yo!
 
-I'm building **NotLost** — an app to make Telegram (and propably all of social life) a little less chaotic.
+I'm building **NotLost** — an app to make Telegram (and propably all of social life) a little less chaotic
 
-Making apps with a focus on intuitiveness and visualization.
+Shaping experiences through intuitive interaction and visual storytelling
 
 Background: 1 year as mobile dev at online school, solo dev of an app with 10M of users at peak
 
