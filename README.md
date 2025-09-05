@@ -1,10 +1,4 @@
-# Yo!
-
-I'm building **NotLost** — an app to make Telegram (and propably all of social life) a little less chaotic
-
-Shaping experiences through intuitive interaction and visual storytelling
-
-Background: 1 year as mobile dev at online school, solo dev of an app with 10M of users at peak
+[![Open](https://raw.githubusercontent.com/shestaya-liniya/icons/main/github-header.svg)](https://andrei-silin.pages.dev/)
 
 <!--
 **shestaya-liniya/shestaya-liniya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
