@@ -1,7 +1,7 @@
 [![Open](https://raw.githubusercontent.com/shestaya-liniya/icons/main/github-header.svg)](https://andrei-silin.pages.dev/)
 
-#### Role
-Fullstack (front > back) developer
+### Fullstack (front > back) developer
+---
 
 #### Main programming language
 [![](https://raw.githubusercontent.com/shestaya-liniya/icons/main/ts-shield.svg)](https://www.typescriptlang.org/)
