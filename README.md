@@ -1,4 +1,4 @@
-# Personal webspace <a href="https://andrei-silin.pages.dev"><img align='center' src='https://raw.githubusercontent.com/shestaya-liniya/icons/main/button-open.svg'></a>
+# Personal webspace <a href="https://andrei-silin.pages.dev"><img src='https://raw.githubusercontent.com/shestaya-liniya/icons/main/button-open.svg'></a>
 
 You can find my knowledge, projects and much more.
 
