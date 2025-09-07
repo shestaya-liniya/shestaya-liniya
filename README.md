@@ -1,4 +1,6 @@
-[![Open](https://raw.githubusercontent.com/shestaya-liniya/icons/main/github-header.svg)](https://andrei-silin.pages.dev/)
+# Personal webspace <a href="https://andrei-silin.pages.dev"><img align='right' src='https://raw.githubusercontent.com/shestaya-liniya/icons/main/button-open.svg' width='80'></a>
+
+You can find my knowledge, projects and much more.
 
 #### Fullstack developer
 Pre-Middle frontend, junior backend developer
