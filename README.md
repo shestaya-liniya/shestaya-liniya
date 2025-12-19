@@ -20,3 +20,6 @@ Pre-Middle frontend, junior backend developer
 #### Deploy
 [![](https://raw.githubusercontent.com/shestaya-liniya/icons/main/cloudflare-shield.svg)](https://www.cloudflare.com/)
 [![](https://raw.githubusercontent.com/shestaya-liniya/icons/main/vercel-shield.svg)](https://vercel.com/)
+
+#### Wakahours - from Jan 2025:  
+[![wakatime](https://wakatime.com/badge/user/12abfa3d-12df-405a-87bb-edea6c492dc3.svg)](https://wakatime.com/@12abfa3d-12df-405a-87bb-edea6c492dc3)
